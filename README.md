@@ -6,7 +6,6 @@ google sheets link: https://docs.google.com/spreadsheets/d/1hm434no-VkXv6QTdssap
 
 this sheets provide
 
-Product link ,	product pictures link,	Product pictures,	Product Discount,	Product Name, 	Product Strength,	Product Price,	Product price
-
+Product link,	product pictures link,	Product pictures,	Product Name, 	Product Strength,	Product Price,	Product Discount price,	Product Discount
 
 Arogga medical product price google sheets.
